@@ -1,2 +1,2 @@
 # ST-DepthNet
-Supplementary material to our submitted paper in the IEEE Transactions on Multimedia
+Supplementary material to our submitted paper in the IEEE Robotics and Automation Letters (RAL)
