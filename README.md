@@ -21,8 +21,12 @@ Construction of the ground truth data is the same, but this time only one filter
 As a result of the above, it is possible to construct a video, which contains five consecutive low and one high point density frame per second as it can be seen below.
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/50795664/202659497-aa0ff334-bebe-42df-8ffd-5ca7cb98a2ab.mp4" width=400/>
+  <video src="https://user-images.githubusercontent.com/50795664/202659837-8fe5a97b-5061-4583-be04-46769d074856.mp4" width=400/>
 </div>
+
+
+
+
 
 
 
