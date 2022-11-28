@@ -24,8 +24,8 @@ We provide the data in raw image and also in video format. The video format can 
     │   │   ├── validation.zip        # Samples in raw image format
     │   │   ├── validation.avi        # Samples in video format (directly usable by the code)
     │   ├── Test                      # Contains 1226 samples 
-    │   │   ├── validation.zip        # Samples in raw image format
-    │   │   ├── validation.avi        # Samples in video format (directly usable by the code)
+    │   │   ├── test.zip              # Samples in raw image format
+    │   │   ├── test.avi              # Samples in video format (directly usable by the code)
     └── ...
 
 
