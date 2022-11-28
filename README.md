@@ -30,9 +30,9 @@ We provide the data in raw image and also in video format. The video format can 
 
 
 ### Creating the dataset
-The dataset was generated from the **[Carla simulator](https://carla.org/)** that gives the opportunity to export perfect depth images without any distortion or blurring. During the whole data recording, the vehicle was dynamically moving. To augment on the extractable information (e.g., vary the ground level), the sensor’s position was randomly rotated along the up axis by [−22.5◦, 22.5◦], and its height was randomly adjusted between [1.5m, 2.5m]. To simulate realistic Livox AVIA measurements, the dense depth images were sampled with rosetta scanning pattern of the Livox AVIA sensor.
+The dataset was generated from the **[Carla simulator](https://carla.org/)** that gives the opportunity to export perfect depth images without any distortion or blurring. During the whole data recording, the vehicle was dynamically moving. To augment on the extractable information (e.g., vary the ground level), the sensor’s position was randomly rotated along the up axis by [−22.5°, 22.5°], and its height was randomly adjusted between [1.5m, 2.5m]. To simulate realistic Livox AVIA measurements, the dense depth images were sampled with rosetta scanning pattern of the Livox AVIA sensor.
 The final dataset consists of 11726 randomly sampled input-output data pairs. 
-* In each sample, the **input data** is a sparse depth image sequence, that consists of five consecutive sparse depth images, each sampled after 200 ms. The implementation of the process is shown in the figure below, where the patterns of the Livox AVIA sensor (displayed in the middle) are used to filter the depth image exported from the simulator resulting in realistic, Livox-like depth images:
+* In each sample, the **input data** is a sparse depth image sequence, that consists of five consecutive sparse depth images, each sampled after 200 ms. The implementation of the process is shown in the figure below, where the patterns of the Livox AVIA sensor (displayed in the middle) are used to filter the depth image exported from the simulator resulting in realistic, Livox-like depth images.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/50795664/186405171-e2f94d63-1101-4050-ab0a-dae11379186c.png" width="250" height="250">
 <img src="https://user-images.githubusercontent.com/50795664/186404712-14b84618-45e5-4ad4-8309-77635e8dcdd0.gif" width="250" height="250">
@@ -47,7 +47,7 @@ The final dataset consists of 11726 randomly sampled input-output data pairs.
 <img src="https://user-images.githubusercontent.com/50795664/186408003-466c4198-4bde-4cf5-b090-7f6e87d6037b.png" width="250" height="250">
 </p>
 
-A sample of the training data presenting the five consequtive sparse depth images and one ground thruth data is displayed in the following video:
+A sample of the training data presenting the five consequtive sparse depth images and one ground truth data is displayed in the following video:
 <div align="center">
   <video src="https://user-images.githubusercontent.com/50795664/202659837-8fe5a97b-5061-4583-be04-46769d074856.mp4" width=400/>
 </div>
