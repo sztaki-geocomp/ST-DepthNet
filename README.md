@@ -19,8 +19,8 @@ If you found this work helpful for your research, or use some part of the code o
 	title = {ST-DepthNet: A spatio-temporal deep network for depth completion using a single non-repetitive circular scanning Lidar},
 	journal = {IEEE Robotics and Automation Letters},
 	year={2023},
-	note={under review},
 	author = {Örkény Zováthi and Balázs Pálffy and Zsolt Jankó and Csaba Benedek},
+	doi={10.1109/LRA.2023.3266670},
 }
 ```
 
