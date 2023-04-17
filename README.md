@@ -12,14 +12,17 @@ A sparse measurement by the Livox AVIA sensor (left) and the completed depth ima
 </p> 
 
 ## Citation
-If you found this work helpful for your research, or use some part of the code or the datasets, please cite our submitted paper (currently under review):
+If you found this work helpful for your research, or use some part of the code or the datasets, please cite our paper:
 
 ```text
 @article{st-depthnet,
+	author = {Örkény Zováthi and Balázs Pálffy and Zsolt Jankó and Csaba Benedek},
 	title = {ST-DepthNet: A spatio-temporal deep network for depth completion using a single non-repetitive circular scanning Lidar},
 	journal = {IEEE Robotics and Automation Letters},
 	year={2023},
-	author = {Örkény Zováthi and Balázs Pálffy and Zsolt Jankó and Csaba Benedek},
+	volume={},
+	number={},
+	pages={1-8},
 	doi={10.1109/LRA.2023.3266670},
 }
 ```
