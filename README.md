@@ -1,5 +1,5 @@
 # ST-DepthNet: A spatio-temporal deep network for depth completion using a single non-repetitive circular scanning Lidar
-Supplementary material to our submitted paper in the IEEE Robotics and Automation Letters (RAL).
+Supplementary material to our **[paper](https://ieeexplore.ieee.org/document/10100860)** in the IEEE Robotics and Automation Letters (RAL).
 
 ## Motivation
 The project's purpose is effective deep learning based depth completion for sparse measurements captured by the **[Livox AVIA](https://www.livoxtech.com/avia)** sensor.
