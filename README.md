@@ -16,14 +16,14 @@ If you found this work helpful for your research, or use some part of the code o
 
 ```text
 @article{st-depthnet,
-	author = {Örkény Zováthi and Balázs Pálffy and Zsolt Jankó and Csaba Benedek},
-	title = {ST-DepthNet: A spatio-temporal deep network for depth completion using a single non-repetitive circular scanning Lidar},
-	journal = {IEEE Robotics and Automation Letters},
-	year={2023},
-	volume={},
-	number={},
-	pages={1-8},
-	doi={10.1109/LRA.2023.3266670},
+	author={Zováthi, Örkény and Pálffy, Balázs and Jankó, Zsolt and Benedek, Csaba},
+  	journal={IEEE Robotics and Automation Letters}, 
+  	title={ST-DepthNet: A Spatio-Temporal Deep Network for Depth Completion Using a Single Non-Repetitive Circular Scanning Lidar}, 
+  	year={2023},
+  	volume={8},
+  	number={6},
+  	pages={3270-3277},
+  	doi={10.1109/LRA.2023.3266670}}
 }
 ```
 
