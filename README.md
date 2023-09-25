@@ -72,7 +72,7 @@ The final dataset consists of 11726 randomly sampled input-output data pairs.
 
 A sample of the training data presenting the five consequtive sparse depth images and one ground truth data is displayed in the following video:
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/50795664/202659837-8fe5a97b-5061-4583-be04-46769d074856.mp4" width=400/>
+  <video src="https://user-images.githubusercontent.com/50795664/194721618-0ec0f0a6-c31e-47a3-a860-48decbd6478a.mp4" width=400/>
 </div>
 
 ## LivoxBudapest Dataset for real-life testing
@@ -95,7 +95,7 @@ There is an RGB camera recording in each video, only for better visualization. A
 #### Example video
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/50795664/220680457-20ad23f9-de75-441d-b82a-813ec7012e10.mp4" width=400/>
+  <video src="https://user-images.githubusercontent.com/50795664/200829044-b212001a-7c1a-4a0e-8821-4a5e35fff0d6.mp4" width=400/>
 </div>
 
 
