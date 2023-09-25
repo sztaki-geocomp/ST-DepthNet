@@ -71,6 +71,12 @@ The final dataset consists of 11726 randomly sampled input-output data pairs.
 </p>
 
 A sample of the training data presenting the five consequtive sparse depth images and one ground truth data is displayed in the following video:
+<div align="center">
+  <video src="https://github.com/sztaki-geocomp/ST-DepthNet/assets/50795664/bcef114f-c59b-43e2-befd-43fa9cbb73d4" width=400/>
+</div>
+
+
+
 
 ## LivoxBudapest Dataset for real-life testing
 
@@ -90,6 +96,11 @@ Methods displayed in the videos:
 There is an RGB camera recording in each video, only for better visualization. A few frame difference can be experienced compared to the depth streams.
 
 #### Example video
+<div align="center">
+  <video src="https://github.com/sztaki-geocomp/ST-DepthNet/assets/50795664/c7c79fac-05e7-4d23-8455-3c4d7d217877" width=400/>
+</div>
+
+
 
 
 
